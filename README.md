@@ -1,1 +1,1 @@
-# Arghya-1st
+# C Language for 1st Sem
